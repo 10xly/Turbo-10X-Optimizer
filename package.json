@@ -1,0 +1,40 @@
+{
+  "name": "turbo-10x-optimizer",
+  "version": "1.0.0",
+  "description": "Make your code as fast as Speedy Gonzalez!",
+  "keywords": [
+    "Turbo",
+    "10x",
+    "Vapor"
+  ],
+  "homepage": "https://github.com/10xly/Turbo-10x-Optimizer#readme",
+  "bugs": {
+    "url": "https://github.com/10xly/Turbo-10x-Optimizer/issues"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/10xly/Turbo-10x-Optimizer.git"
+  },
+  "license": "MIT",
+  "author": "10x'ly",
+  "type": "commonjs",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "dependencies": {
+    "@identity-js/identity": "^1.3.0",
+    "@positive-numbers/one-hundred": "^5.0.0",
+    "@rightpad/concat": "^1.0.0",
+    "chalk4096": "^1.0.1",
+    "deasync": "^0.1.31",
+    "false-value": "^2.0.7",
+    "important-extremely-useful-classes": "^3.1.0",
+    "json-parse-even-better-errors": "^5.0.0",
+    "none": "^1.0.0",
+    "number-zero": "^1.0.3",
+    "prompts": "^2.4.2",
+    "true-value": "^3.0.2",
+    "vapor-js-npm": "^1.4.6"
+  }
+}
